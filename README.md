@@ -1,4 +1,5 @@
-@Rentals
+I have added this in a zip file as it had multiple errors which took time to resolve so managing project was little tough, but now the project is completely fine and working perfectly.
+Rentals
 MERN website serving as a platform for Book Renting with least costs involved as one needs to pay just shipping & minimal day wise rental charges.
 
 Technologies Used:
