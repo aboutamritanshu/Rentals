@@ -10,6 +10,10 @@ Technologies Used:
 Front End : ReactJS, HTML, CSS, Bootstrap
 Back End : NodeJS, ExpressJS, JWT
 Database : MongoDB
+
+
+
+
 Functionality
 User
 Basic
