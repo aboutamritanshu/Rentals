@@ -57,7 +57,6 @@
 For development, you will only need Node.js installed on your environement. 
 And please use the appropriate Editorconfig plugin for your Editor (not mandatory).
 
-For additional Setup info check: [Setup.md]()
 
-## Maintainers/ Contributors:
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/CoolCoderz/atRentals/graphs/contributors)
+
+
