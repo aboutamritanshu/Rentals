@@ -44,7 +44,7 @@
 ### Requirements
 
 For development, you will only need Node.js installed on your environement. 
-And please use the appropriate Editorconfig plugin for your Editor (not mandatory).
+
 
 
 
